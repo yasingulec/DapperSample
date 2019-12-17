@@ -1,0 +1,9 @@
+C:\Users\loses\source\repos\DapperBasicCrud\DapperBasicCrud\bin\Debug\DapperBasicCrud.exe.config
+C:\Users\loses\source\repos\DapperBasicCrud\DapperBasicCrud\bin\Debug\DapperBasicCrud.exe
+C:\Users\loses\source\repos\DapperBasicCrud\DapperBasicCrud\bin\Debug\DapperBasicCrud.pdb
+C:\Users\loses\source\repos\DapperBasicCrud\DapperBasicCrud\bin\Debug\Dapper.dll
+C:\Users\loses\source\repos\DapperBasicCrud\DapperBasicCrud\bin\Debug\Dapper.xml
+C:\Users\loses\source\repos\DapperBasicCrud\DapperBasicCrud\obj\Debug\DapperBasicCrud.csprojAssemblyReference.cache
+C:\Users\loses\source\repos\DapperBasicCrud\DapperBasicCrud\obj\Debug\DapperBasicCrud.csproj.CopyComplete
+C:\Users\loses\source\repos\DapperBasicCrud\DapperBasicCrud\obj\Debug\DapperBasicCrud.exe
+C:\Users\loses\source\repos\DapperBasicCrud\DapperBasicCrud\obj\Debug\DapperBasicCrud.pdb
